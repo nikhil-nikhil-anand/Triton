@@ -42,7 +42,7 @@
 Note:- Messages are not encrypted yet.
 
 #### NASA's Mars Rover Photos [->](https://triton.azurewebsites.net/nasaMars/)
-#### ISS Location [->](https://triton.azurewebsites.net/issLocation/)  
+#### ISS Location [->](https://triton.azurewebsites.net/issLocation/)   
 
 
 
