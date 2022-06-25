@@ -1,5 +1,8 @@
 # Triton
 
+#### React based implementation is here https://github.com/Spectre-ak/triton-one
+
+
 #### The beta version is deployed on azure and cpanel but login/signup is only available on cpanel and on azure users can only use APIs.
 ##### azure https://triton.azurewebsites.net/
 ##### cpanel http://triton.byethost7.com
@@ -38,8 +41,6 @@
 2. Chat history is loaded once and each current chat gets added on the history database for both the user
 3. Real-time messaging uses different databases and gets removed after each received message
 4. Status(online/offline) -Each user keeps updating status(current time) on the firebase database using setinterval() for a particular chat
-
-Note:- Messages are not encrypted yet.
 
 #### NASA's Mars Rover Photos [->](https://triton.azurewebsites.net/nasaMars/)
 #### ISS Location [->](https://triton.azurewebsites.net/issLocation/)   
